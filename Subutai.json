@@ -4,7 +4,7 @@
   "nodes": [
     {
       "name": "ansible",
-      "template": "ansible@4d778697b6ad899189adb914b42a2fa9bb2a61aa",
+      "template": "ansible",
       "peer_group": "GROUP1",
       "size": "TINY"
     },
