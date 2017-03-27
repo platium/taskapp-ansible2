@@ -4,25 +4,25 @@
   "nodes": [
     {
       "name": "ansible",
-      "template": "ansible",
+      "template": "ansible@8812f565fbbfc5e6dd0a47a6da53d500b28ae6b6",
       "peer_group": "GROUP1",
       "size": "TINY"
     },
     {
       "name": "taskapp-1",
-      "template": "taskapp",
+      "template": "taskapp@8812f565fbbfc5e6dd0a47a6da53d500b28ae6b6",
       "peer_group": "GROUP1",
       "size": "HUGE"
     },
     {
       "name": "taskapp-2",
-      "template": "taskapp",
+      "template": "taskapp@8812f565fbbfc5e6dd0a47a6da53d500b28ae6b6",
       "peer_group": "GROUP2",
       "size": "HUGE"
     },
     {
       "name": "taskapp-3",
-      "template": "taskapp",
+      "template": "taskapp@8812f565fbbfc5e6dd0a47a6da53d500b28ae6b6",
       "peer_group": "GROUP2",
       "size": "HUGE"
     }
